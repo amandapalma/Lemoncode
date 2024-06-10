@@ -9,8 +9,11 @@ Los cambios en el tema afectan a las siguientes características:
  
 Para visualizar los cambios debería ser suficiente importar un tema u otro en el fichero de estilos principal.
 
-| Resultado tema A | Resultado tema B  |
-|![enter image description here](https://placehold.co/150x300)|![enter image description here](https://placehold.co/150x300)|
+| Resultado tema A  | Resultado tema B  |
+|-----------|-----------|
+| ![enter image description here](https://github.com/amandapalma/Lemoncode/blob/master/M1-LAYOUT/02-M1-Layout-Ejercicio_2/src/assets/M1-Layout-Ejercicio_2_A.png)    | ![enter image description here](https://github.com/amandapalma/Lemoncode/blob/master/M1-LAYOUT/02-M1-Layout-Ejercicio_2/src/assets/M1-Layout-Ejercicio_2_B.png)   |
+
+
 
 ----
 
