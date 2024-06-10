@@ -2,10 +2,13 @@
 
 El html es abierto completamente, es decir crear las estructuras necesarias que se crean convenientes. La barra de navegación responde a distintas resoluciones. Utilizar media queries para conseguir este resultado. 
 
-Resultado resoluciones mayores:
-|![enter image description here](https://placehold.co/400x50)|
+
+**Resultado resoluciones mayores**
+  
+![Resultado resoluciones mayores](https://github.com/amandapalma/Lemoncode/blob/master/M1-LAYOUT/03-M1-Layout-Ejercicio_3/src/assets/M1-Layout-Ejercicio_3_A.png)
  
-Resultado resoluciones menores:
-![enter image description here](https://placehold.co/300x500)|
+ **Resultado resoluciones menores**
+  
+![Resultado resoluciones menores](https://github.com/amandapalma/Lemoncode/blob/master/M1-LAYOUT/03-M1-Layout-Ejercicio_3/src/assets/M1-Layout-Ejercicio_3_B.png)
 
 ----
