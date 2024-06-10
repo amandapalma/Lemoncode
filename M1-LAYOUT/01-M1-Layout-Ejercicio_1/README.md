@@ -28,6 +28,6 @@ Crear una paleta de colores dinámica. Usar el lenguaje Sass para crear distinto
 
 Resultado esperado:
 
-![enter image description here](https://placehold.co/300x200)
+![enter image description here](https://github.com/amandapalma/Lemoncode/blob/master/M1-LAYOUT/01-M1-Layout-Ejercicio_1/src/assets/M1-Layout-Ejercicio_1.png)
 
 ----
