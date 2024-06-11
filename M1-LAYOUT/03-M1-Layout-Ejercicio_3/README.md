@@ -17,3 +17,4 @@ El html es abierto completamente, es decir crear las estructuras necesarias que 
 1. [Instala Parcel](https://es.parceljs.org/getting_started.html)
 2. Ejecuta `npx parcel src/index.html`
 3. Ve al puerto indicado en la terminal http://localhost:XXXX
+4. El diseño cambiará según el tamaño de la pantalla, a partir de los 768px de ancho
