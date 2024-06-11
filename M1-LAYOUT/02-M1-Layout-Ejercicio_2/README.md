@@ -19,5 +19,5 @@ Para visualizar los cambios debería ser suficiente importar un tema u otro en e
 
 1. [Instala Parcel](https://es.parceljs.org/getting_started.html)
 2. Ejecuta `npx parcel src/index.html`
-3. Ve al puerto indicado http://localhost:XXXX
-4. Para visualizar cada tema importa el fichero correspondiente en el html. `<link rel="stylesheet" href="themeA.css" />` o `<link rel="stylesheet" href="themeB.css" />`en cada caso.
+3. Ve al puerto indicado en la terminal http://localhost:XXXX
+4. Para visualizar cada tema, importa el fichero correspondiente en el html. `<link rel="stylesheet" href="themeA.css" />` o `<link rel="stylesheet" href="themeB.css" />` en cada caso.
