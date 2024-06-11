@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  font-family: monospace;
+
+  .box {
+    height: 80px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: var(--border-radius);
+    font-weight: bold;
+    padding: 20px;
+  }
+}
+
+.base {
+  background-color: var(--base-color);
+}
+
+.important {
+  background-color: var(--important-color);
+}
+
+.warning {
+  background-color: var(--warning-color);
+}
+
+.primary {
+  font-family: var(--primary-font);
+  margin: 12px 0;
+}
+
+.secondary {
+  font-family: var(--secondary-font);
+  margin: 12px 0;
+}
+
+.shadow {
+  box-shadow: var(--box-shadow);
+}

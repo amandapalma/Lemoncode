@@ -1,0 +1,11 @@
+@import './shared.css';
+
+html {
+  --base-color: #008cc5;
+  --important-color: #1d637e;
+  --warning-color: #b6e1f2;
+  --primary-font: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  --secondary-font: 'Garamond', 'Times New Roman', Times, serif;
+  --border-radius: 8px;
+  --box-shadow: 8px 8px 5px rgba(0, 0, 0, 0.4);
+}

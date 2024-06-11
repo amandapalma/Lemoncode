@@ -1,0 +1,11 @@
+@import './shared.css';
+
+html {
+  --base-color: #e3683b;
+  --important-color: #b43535;
+  --warning-color: #ff9999;
+  --primary-font: 'Helvetica', 'Arial', sans-serif;
+  --secondary-font: 'Verdana', sans-serif;
+  --border-radius: 0px;
+  --box-shadow: -8px 8px 5px rgba(0, 0, 0, 0.4);
+}
