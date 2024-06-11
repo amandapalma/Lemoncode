@@ -24,10 +24,16 @@ Crear una paleta de colores dinámica. Usar el lenguaje Sass para crear distinto
 
     </div>
 
-> NOTA: Para este ejercicio se puede utilizar cualquier estructura de Sass que se considere necesaria. El html para mostrar resultados deberá será modificado con clases.
+> NOTA: Para este ejercicio se puede utilizar cualquier estructura de Sass que se considere necesaria. El html para mostrar resultados deberá ser modificado con clases.
 
 Resultado esperado:
 
 ![enter image description here](https://github.com/amandapalma/Lemoncode/blob/master/M1-LAYOUT/01-M1-Layout-Ejercicio_1/src/assets/M1-Layout-Ejercicio_1.png)
 
-----
+---
+
+# 🚀 Ejecutar el proyecto
+
+1. [Instala Parcel](https://es.parceljs.org/getting_started.html)
+2. Ejecuta `npx parcel src/index.html`
+3. Ve al puerto indicado http://localhost:XXXX

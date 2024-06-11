@@ -1,0 +1,21 @@
+@use 'variables' as *;
+
+@mixin color-palette($color-index) {
+  $base-color: map-get($base-colors, $color-index);
+
+  @for $i from 1 through 4 {
+    .darken-#{$i} {
+      background-color: darken($base-color, $gradient-amount * $i);
+      color: lighten($base-color, $gradient-amount * $i);
+    }
+    .lighten-#{$i} {
+      background-color: lighten($base-color, $gradient-amount * $i);
+      color: darken($base-color, $gradient-amount * $i);
+    }
+    .base-color {
+      background-color: $base-color;
+      color: lighten($base-color, 1.5 * $gradient-amount);
+      width: calc(2 * $box-size);
+    }
+  }
+}
