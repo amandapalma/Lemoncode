@@ -2,7 +2,7 @@
   "name": "01-m1-layout-ejercicio_2",
   "version": "1.0.0",
   "description": "Crear dos temas distintos y mostrar los resultados en una página",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

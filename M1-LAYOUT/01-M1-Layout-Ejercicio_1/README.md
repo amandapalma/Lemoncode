@@ -36,4 +36,4 @@ Resultado esperado:
 
 1. [Instala Parcel](https://es.parceljs.org/getting_started.html)
 2. Ejecuta `npx parcel src/index.html`
-3. Ve al puerto indicado http://localhost:XXXX
+3. Ve al puerto indicado en la terminal http://localhost:XXXX

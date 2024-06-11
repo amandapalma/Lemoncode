@@ -1,17 +1,15 @@
 {
-  "name": "01-M1-Layout-Ejercicio_3",
+  "name": "01-m1-layout-ejercicio_3",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Crear la barra de navegación de la imagen usando Flexbox.",
+  "main": "index.html",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "amandapalma",
   "license": "ISC",
   "devDependencies": {
-    "cssnano": "^4.1.10",
-    "sass": "^1.26.5"
+    "@parcel/transformer-sass": "^2.12.0"
   }
 }
