@@ -1,0 +1,66 @@
+body {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #eeeeee;
+  font-family: Geneva, sans-serif;
+  font-size: 0.8em;
+}
+
+.card {
+  width: 230px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  overflow: hidden;
+}
+
+.card-image {
+  width: 100%;
+  height: auto;
+}
+
+.card-body {
+  display: grid;
+  grid-template-rows: auto auto 1fr auto;
+  gap: 15px;
+  padding: 10px;
+}
+
+.card-title {
+  margin: 0;
+  font-size: 1.5em;
+  color: #333;
+}
+
+.card-text {
+  margin: 10px 0;
+  font-size: 0.8em;
+  line-height: 1.8em;
+  color: #666;
+}
+
+.card-timestamp {
+  margin: 0;
+  text-align: right;
+  font-size: 0.8em;
+  color: #7abe47;
+}
+.card-timestamp span {
+  color: #000;
+  font-weight: bold;
+}
+
+.card-button {
+  align-self: center;
+  padding: 12px;
+  color: #fff;
+  background-color: #7abe47;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.card-button:hover {
+  background-color: #517d2f;
+}
